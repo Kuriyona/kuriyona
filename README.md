@@ -1,15 +1,11 @@
 
 
-## Hi there 👋, I'm Kuriyota.
+## Hi there 👋, I'm Kuriyona.
 
-> `Kuriyota` read as japanese `クリヨタ`.
+> `Kuriyona` read as japanese `クリヨナ`.
 
 A Chinese senior high school student, tech otaku, casual anime fan, and interest-driven developer.
 
-Find me on [Bilibili(哔哩哔哩)](https://space.bilibili.com/650631530) and [X / Twitter](https://x.com/cn_Kuriyota).
+Find me on [Bilibili(哔哩哔哩)](https://space.bilibili.com/650631530) and [X / Twitter](https://x.com/Kuriyona).
 
-[Personal Website](https://kuriyota.com/)
-
-![Kuriyota's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuriyota&show_icons=true&text_bold=true&hide_rank=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuriyota)
+[Personal Website](https://kuriyona.com/)
